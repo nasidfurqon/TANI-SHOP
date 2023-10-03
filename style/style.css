@@ -1,0 +1,175 @@
+
+.container-fluid a {
+    color:#3C7C40;
+}
+.navbar-brand {
+    margin-left: 90px;
+    cursor: pointer;    
+}
+
+.col-sm-7 {
+    margin-left: 80px;
+    margin-right: 10px;
+}
+
+.left-nav {
+    margin-left: 60px;
+    margin-right: 10px;
+}
+
+.left-nav img {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+    margin-right: 13px;
+}
+
+.nav-item .nav-link {
+    color: black;
+    font-size: 25px;
+}
+
+.nav-item .nav-link:hover {
+    color: green;
+    font-size: 25px;
+}
+
+.Header {
+    background-image: url("/image/ricefield.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;
+    width: 1519px;
+    height: 400px;
+}
+
+.Header p {
+    color: #fff;
+    margin-left: 140px;
+}
+.Header .text1 {
+    margin-top: 140px;
+    font-size: 30px;
+}
+.Header .text2 {
+    font-size: 20px;
+}
+.Header a {
+    text-decoration: none;
+    margin-left: 140px;
+}
+.home-rice {
+    width: 1520px;
+}
+
+.home-rice::after {
+    content: "testsetsets";
+    position: absolute;
+    bottom: 0;
+}
+
+.product {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin-left: 160px;
+}
+.product .title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: center;
+    letter-spacing: 0.1em;
+    margin-right: 110px;
+    margin-top: 10px;
+    color: #3C7C40;
+}
+
+.col-product {
+    background: #fff;
+    float: left;
+    width: 210px;
+    height: 350px;
+    box-shadow: 0px 12px 6px rgba(102, 97, 97, 0.1);
+    border-radius: 10px;
+    margin: 20px;
+    margin-bottom: 30px;
+}
+.col-product a {
+    text-decoration: none;
+}
+
+.col-product p {
+    color: #000000;
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    padding-left: 20px;
+    text-align: left;
+    margin: 14px auto;
+    margin-bottom: -10px;
+}
+
+.gambar1 {
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    margin-left: 25px;
+}
+/* start detail style */
+.detail {
+    margin: 50px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.detail img {
+    float: left;
+}
+.mid-content {
+    margin-left: 600px;
+}
+.name {
+    padding-right: 450px;
+}
+.right-content {
+    float: right;
+    margin-right: 100px;
+    margin-top: -140px;
+    background-color:aliceblue;
+    height: 150px;
+    padding: 20px;
+    border-radius: 10px;
+}
+.sub-name img {
+    height: 20px;
+    width: 20px;
+}
+.flex {
+    display: flex;
+}
+.flex-row {
+    flex-direction: row;
+}
+.flex-wrap {
+    flex-wrap: wrap;
+}
+.sub-name span {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.detail .image {
+    width: 450px;
+    height: 450px;
+    border-radius: 10px;
+}
+
+.title {
+    color: #3C7C40;
+}
+table {
+    margin-top:30px;
+}
